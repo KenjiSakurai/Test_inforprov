@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#toP{
+    width: 100%;
+    height: 15vh;
+    background-color: rebeccapurple;
+}
+
+#middlE{
+    width: 100%;
+    height: 75vh;
+    background-color: rosybrown;
+}
+
+#bottoM{
+    width: 100%;
+    height: 30vh;
+    background-color: rgb(100, 107, 112);
+}
+
+nav{
+    padding-top: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: salmon;
+    font-size: 2em;
+    margin-right: 20px;
+}
+
+figure{
+    width: 60%;
+    height: 70%;
+    /*display: block;*/
+    margin: auto;
+}
+
+figure img{
+    width: 100%;
+    height:100%;
+    margin-top: 5%;
+    border: 2px solid white;
+}
+
+figcaption{
+    text-align: center;
+    background-color: lightcyan;
+    border: 2px solid white;
+}
